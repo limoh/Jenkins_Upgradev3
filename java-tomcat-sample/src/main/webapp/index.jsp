@@ -1,9 +1,10 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<p>Thank you for viewing this Tutorial</p>
-<p>Great to be this far in my DevOps course</p>
-<h3>Encouraging the Devop Engineer</h3>
-<p>There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...</p>
+<p>We cannot solve problems with the kind of thinking we employed when we came up with them</p>
+
+<h3>Lorem Ipsum</h3>
+
+<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 </body>
 </html>
